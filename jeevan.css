@@ -1,0 +1,9 @@
+.form-container
+{
+    border:1px solid #fff;
+    padding: 60px 80px;
+    margin-top : 10px;
+    -webkit-box-shadow: -1px 0px 10px 1px rgba(247,247,247,1);
+    -moz-box-shadow: -1px 0px 10px 1px rgba(247,247,247,1);
+    box-shadow: -1px 0px 10px 1px rgba(247,247,247,1);
+}
